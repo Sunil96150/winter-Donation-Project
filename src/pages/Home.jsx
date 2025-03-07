@@ -7,12 +7,12 @@ import donation from "../assets/donation.png";
 import share from "../assets/share.png";
 import volunteer from "../assets/volunteer.png";
 import aboutImg from "../assets/about.jpg";
-import sliderImg1 from "../assets/winter-image_1.webp";
-import sliderImg2 from "../assets/winter-image_2.webp";
-import sliderImg3 from "../assets/winter-image_3.webp";
-import sliderImg4 from "../assets/winter-image_4.webp";
-import sliderImg5 from "../assets/winter-image_5.webp";
-import sliderImg6 from "../assets/winter-image_6.jpg";
+import sliderImg1 from "../assets/event/clothes-donation1.jpeg";
+import sliderImg2 from "../assets/event/clothes-donation-2.webp";
+import sliderImg3 from "../assets/event/clothes-donation-3.jpg";
+import sliderImg4 from "../assets/event/clothes-donation-4.webp";
+import sliderImg5 from "../assets/event/clothes-donation-5.jpg";
+import sliderImg6 from "../assets/event/clothes-donation-6.webp";
 
 import firstImage from "../assets/event/first.jpg";
 import secondImage from "../assets/event/second.jpg";
