@@ -24,7 +24,7 @@ const HowToHelp = () => {
                     </div>
                 </section>
 
-                <section className="grid gap-8 p-8 mb-12 sm:grid-cols-2 lg:grid-cols-3 animate__animated animate__fadeInUp animate__delay-1s">
+                <section className="grid gap-8 p-8 mb-12 sm:grid-cols-2 lg:grid-cols-3 ">
                     <div className="p-6 bg-white rounded-lg shadow-lg">
                         <h2 className="text-lg font-semibold text-blue-700 sm:text-xl">
                             Donate Clothing
@@ -63,7 +63,7 @@ const HowToHelp = () => {
                     </p>
                     <Link
                         to="/signup"
-                        className="inline-block px-6 py-3 mt-6 text-sm font-medium text-white transition-colors duration-300 bg-blue-700 rounded-lg hover:bg-blue-600 sm:text-base animate__animated animate__pulse animate__infinite"
+                        className="inline-block px-6 py-3 mt-6 text-sm font-medium text-white bg-blue-700 rounded-lg hover:bg-blue-600 sm:text-base "
                     >
                         Sign Up Now
                     </Link>
@@ -106,10 +106,10 @@ const HowToHelp = () => {
                     <p className="mt-2">
                         <span className="font-semibold">Email:</span>{" "}
                         <a
-                            href="mailto:info@warmhearts.com"
+                            href="mailto:info@winterclothesdonations.com"
                             className="text-blue-700"
                         >
-                            info@warmhearts.com
+                            info@winterclothesdonations.com
                         </a>
                     </p>
                     <p className="mt-1">

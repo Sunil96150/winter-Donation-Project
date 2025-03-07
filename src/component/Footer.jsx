@@ -8,7 +8,7 @@ import { Link } from "react-router-dom";
 
 const Footer = () => {
     return (
-        <footer className="py-10 text-white bg-gradient-to-br from-blue-700 via-blue-500 to-cyan-400">
+        <footer className="py-10 text-white bg-gradient-to-br from-gray-700 via-black-500 to-cyan-400">
             <div className="max-w-6xl px-6 mx-auto">
                 <div className="flex flex-col gap-8 mb-8 md:flex-row md:justify-between md:items-center">
                     <div className="space-y-4">
