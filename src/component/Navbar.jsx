@@ -32,9 +32,9 @@ const Navbar = () => {
         <div className="relative bg-gray-100 shadow-md">
             <div className="flex items-center justify-between max-w-screen-xl p-4 mx-auto">
                 <div className="flex items-center gap-2">
-                    <img src="/favicon.png" className="w-10 h-10" alt="Logo" />
+                    <img src="/public/th (1).jpeg" className="w-10 h-10" alt="Logo" />
                     <h1 className="text-xl font-bold text-blue-700">
-                        Warm Hearts
+                        Clothes Donations
                     </h1>
                 </div>
 
