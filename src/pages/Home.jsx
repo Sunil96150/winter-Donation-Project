@@ -14,26 +14,26 @@ import sliderImg4 from "../assets/event/clothes-donation-4.webp";
 import sliderImg5 from "../assets/event/clothes-donation-5.jpg";
 import sliderImg6 from "../assets/event/clothes-donation-6.webp";
 
-import firstImage from "../assets/event/first.jpg";
-import secondImage from "../assets/event/second.jpg";
-import thirdImage from "../assets/event/third.jpg";
+import firstImage from "../assets/event/first-event-2.webp";
+import secondImage from "../assets/event/First-event.jpg";
+import thirdImage from "../assets/event/event-rising.jpeg";
 
 import Swal from "sweetalert2";
 
-import dhakaImg from "../assets/annual-report/dhaka.jpg";
-import ctgImg from "../assets/annual-report/chittagong.jpg";
-import rajshahiImg from "../assets/annual-report/rajshahi.jpg";
+import dhakaImg from "../assets/event/Dhaka.jpeg";
+import ctgImg from "../assets/event/chattogram.jpeg";
+import rajshahiImg from "../assets/event/khulna.jpeg";
 
 const sliderData = [
     {
         image: sliderImg1,
-        title: "Campaign 1: Warm Smiles for Winter",
+        title: "Campaign 1: Clothes are distributed in rural area. ",
         description:
             "Help us deliver warm clothing and accessories to families in need. Every small act of kindness can spread a warm smile this winter.",
     },
     {
         image: sliderImg2,
-        title: "Campaign 2: Spread Warmth",
+        title: "Campaign 2: Donated clothes in different area.",
         description:
             "Join our effort to collect and distribute warm winter clothing to underserved communities across the country.",
     },
@@ -45,19 +45,19 @@ const sliderData = [
     },
     {
         image: sliderImg4,
-        title: "Campaign 4: Winter Essentials Drive",
+        title: "Campaign 4: Donated necessary clothes.",
         description:
             "Contribute winter essentials like gloves, scarves, and socks to support vulnerable communities during harsh weather conditions.",
     },
     {
         image: sliderImg5,
-        title: "Campaign 5: Warm Hearts Initiative",
+        title: "Campaign 5: Donated winter clothes for the children.",
         description:
             "Join us in spreading warmth to children and elderly individuals by donating new or gently used winter clothing.",
     },
     {
         image: sliderImg6,
-        title: "Campaign 6: Community Warmth Network",
+        title: "Campaign 6: The volunteers helps to donation the winter clothes.",
         description:
             "Build a network of support by donating and volunteering to help distribute winter clothes to families in need.",
     },
